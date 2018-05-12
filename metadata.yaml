@@ -1,0 +1,46 @@
+_repo: Narrative-of-the-surveying-voyages-of-His-Majesty-s-ships-Adventure-and-Beagle-between-the-ye__38961
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fitzroy, Robert
+    alias: Fitz-Roy, Robert
+    birthdate: 1805
+    deathdate: 1865
+    gutenberg_agent_id: '26131'
+    url: http://www.gutenberg.org/2009/agents/26131
+    wikipedia: http://en.wikipedia.org/wiki/Robert_FitzRoy
+  - agent_name: King, Philip Parker
+    alias: King, Phillip Parker
+    birthdate: 1791
+    deathdate: 1856
+    gutenberg_agent_id: '3879'
+    url: http://www.gutenberg.org/2009/agents/3879
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Parker_King
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fuegians'
+- !lcc 'F2801'
+- !lcc 'G'
+- !lcsh 'Adventure and Beagle expedition (1826-1830)'
+- !lcsh 'Patagonia (Argentina and Chile) -- Description and travel'
+- !lcsh 'Beagle Expedition (1831-1836)'
+- !lcsh 'South America -- Description and travel'
+- !lcsh 'Natural history -- South America'
+- !lcsh 'Indians of South America -- Patagonia (Argentina and Chile)'
+title: 'Narrative of the surveying voyages of His Majesty''s ships Adventure and Beagle,
+  between the years 1826 and 1836
+
+  Volume I. - Proceedings of the First Expedition, 1826-1830'
+url: http://www.gutenberg.org/ebooks/38961
