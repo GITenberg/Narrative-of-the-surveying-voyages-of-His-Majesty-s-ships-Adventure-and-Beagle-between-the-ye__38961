@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3879
     wikipedia: http://en.wikipedia.org/wiki/Philip_Parker_King
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38961#Narrative-of-the-surveying-voyages-of-His-Majesty-s-ships-Adventure-and-Beagle-between-the-ye_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-02-23'
 gutenberg_type: Text
